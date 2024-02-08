@@ -1,16 +1,15 @@
-# 👋 Hi, I’m @0bl1v10nf0rg0773n
+# 👋 Hi, I’m @0bl1v10nf0rg0773n - Hacker rank on Hack The Box
 
 Welcome to my GitHub profile! 
 
 ## 👀 About Me
 - I have over 3 years of experience in Cybersecurity fields.
 - Completed 27 projects successfully.
-- Managed to pawn 260+ machines on Hack The Box.
+- Managed to pawn 300+ machines on Hack The Box.
 - Self-taught for over 7 years.
-- Conquered 257 HTB machines.
-- Accomplished 3 User and 2 System flags in HTB.
+- Accomplished 8 User and 6 System flags in HTB.
 - Accomplished 2 THM machines.
-- Hold the prestigious "Script Kiddie" rank on HTB.
+- Hold the prestigious "Hacker" rank on HTB.
 
 ## 🌱 Currently Learning
 I'm always expanding my knowledge and skills to stay ahead in the fast-paced tech world.
