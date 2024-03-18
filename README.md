@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I’m @0bl1v10nf0rg0773n, known as Oblivion Forgotten in the cybersecurity community and Ivan Barnola Gasch in Catalonia, Spain.
-# God rank on TryHackMe
-# Hacker rank Hack The Box
+# [God rank on TryHackMe](https://tryhackme.com/r/0BL1V10NF0RG0773)
+# [Hacker rank Hack The Box](https://app.hackthebox.com/users/1815479)
 
 Welcome to my profile!
 
