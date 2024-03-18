@@ -1,90 +1,87 @@
-# 👋 Hi, I’m @0bl1v10nf0rg0773n - Hacker rank on Hack The Box
 
-Welcome to my GitHub profile! 
+# 👋 Hi there, I’m @0bl1v10nf0rg0773n, known as Oblivion Forgotten in the cybersecurity community and Ivan Barnola Gasch in Catalonia, Spain.
+# God rank on TryHackMe
+# Hacker rank Hack The Box
+
+Welcome to my profile!
 
 ## 👀 About Me
-- I have over 3 years of experience in Cybersecurity fields.
-- Completed 27 projects successfully.
-- Managed to pawn 300+ machines on Hack The Box.
-- Self-taught for over 7 years.
-- Accomplished 8 User and 6 System flags in HTB.
-- Accomplished 2 THM machines.
-- Hold the prestigious "Hacker" rank on HTB.
 
-## 🌱 Currently Learning
-I'm always expanding my knowledge and skills to stay ahead in the fast-paced tech world.
+I'm a multifaceted individual with diverse interests spanning from sports to technology.
 
-## 💼 Services Offered
-### Computer Repair and Assembly
-I can assist you in assembling or repairing your computer, ensuring you learn along the way for future troubleshooting.
+### Sports Background
 
-### Network Mapping
-Need a network map for your company's computers? I can provide one along with comprehensive documentation.
+From a young age, I've been deeply passionate about sports, particularly excelling in cross-country skiing, showcasing dedication and discipline both locally and nationally.
 
-### Design Services
-- **Photoshop:** Editing images and creating logos.
-- **After Effects:** Video editing.
-- **Adobe Premiere:** Professional video editing for ads.
-  
-### Web Development
-While not the best, I can create basic websites using HTML, CSS and JS, or else use it with WordPress along with a database setup.
+### Technological Interests and Skills
 
-## 📫 How to Reach Me
-Feel free to contact me for collaborations or inquiries through the contact form in the website.
+Beyond sports, I'm fascinated by cybersecurity and ethical hacking. Proficient in various technical skills including HTML, CSS, JavaScript, PHP, and network setups, I delve into understanding the digital world around us.
 
-## 😄 Pronouns
-He/Him
+### Multilingualism
 
-## ⚡ Fun Fact
-I love exploring new cybersecurity news and finding creative solutions to complex security problems.
+Fluent in Catalan, English, and Spanish, I effectively communicate across cultures and countries.
 
--------------------------------------------------------------------------------------------------------------
+## 🌱 Continuous Learning
 
-# Sobre Mi
+Currently pursuing the Certified Ethical Hacker (CEH) certification, I believe in the importance of continuous learning to stay relevant in the ever-evolving tech landscape.
 
-Em dic Ivan Barnola Gasch, conegut també com Oblivion Forgotten, i vaig néixer el 27 d'agost de 2004 a Catalunya, Espanya. Em considero una persona polifacètica, amb passions i interessos diversos que abarquen tant l'àmbit esportiu com el tecnològic.
+## 🎮 Hack The Box (HTB) Journey
 
-## El Meu Passat Esportiu
+My journey on Hack The Box (HTB) began around 7 years ago, immersing myself in cybersecurity challenges to expand my knowledge and skills in the field.
 
-Des de ben petit, he tingut una gran passió per l'esport, i això es reflecteix en la meva habilitat excepcional en l'esquí de fons. La dedicació i la disciplina que he posat en aquest esport m'han permès destacar tant a nivell local com nacional.
+## Experience at TryHackMe (THM)
 
-## Interessos i Competències Tecnològiques
+Active participation in various activities on TryHackMe (THM), ranging from King Of The Hill (KOTH) challenges to engaging in Kacktivities and immersive practice sessions.
 
-Més enllà del món esportiu, també m'apassiona el camp de la ciberseguretat i el "hacking" ètic. Tinc una àmplia gamma de competències tècniques que inclouen HTML, CSS, JavaScript, PHP i instal·lacions de xarxa, les quals utilitzo per explorar i comprendre millor el món digital que ens envolta.
+## Professional Experience
 
-## Multilingüisme
+I've worked as a network administrator in educational institutions, gaining expertise in network security, device management, and network mapping.
 
-Sóc fluid en català, anglès i espanyol, cosa que em permet comunicar-me eficaçment amb persones de diferents cultures i països.
-
-## Educació Continuada
-
-Actualment, estic dedicant temps i esforços a obtenir la certificació de Certified Ethical Hacker (CEH), ja que considero que l'aprenentatge contínu és clau per mantenir-se rellevant en un món tecnològic en constant evolució.
-
-## El Meu Camí a Hack The Box (HTB)
-
-La meva aventura a Hack The Box (HTB) va començar fa uns 7 anys, quan vaig descobrir aquesta plataforma i vaig decidir submergir-me en el món dels reptes de ciberseguretat. A través d'aquests reptes, he pogut ampliar els meus coneixements i habilitats en el camp de la seguretat informàtica.
-
-## Experiència a TryHackMe (THM)
-
-A TryHackMe (THM), també participo activament en diverses activitats, des de reptes King Of The Hill (KOTH) fins a participacions en Kacktivities i sessions de pràctica immersives.
-
-## Experiència Professional
-
-He tingut l'oportunitat de treballar com a administrador de xarxes a diverses institucions educatives, on he adquirit experiència en seguretat de xarxes, administració de dispositius i mapeig de xarxa.
-
-## Competències Tècniques Destacades:
+### Notable Technical Skills:
 
 - HTML: 100%
 - CSS: 90%
 - JavaScript: 75%
 - PHP: 80%
-- Instal·lacions de Xarxa: 90%
+- Network Setups: 90%
 
-## Projectes Destacats:
+## Noteworthy Projects:
 
-- CEH — Certificat: Actualment estic treballant per obtenir la certificació Certified Ethical Hacker (CEH).
+- Currently working towards obtaining the Certified Ethical Hacker (CEH) certification.
 
-## Referències:
+## 💼 Services Offered
 
-- [La meva pàgina web](https://ivan-vcard.xyz) .
-- [Altres links](https://linktr.ee/OblivionForgotten)
+### Computer Repair and Assembly
+
+Assistance in computer assembly or repair with a focus on learning for future troubleshooting.
+
+### Network Mapping
+
+Providing comprehensive network maps and documentation for companies.
+
+### Design Services
+
+- **Photoshop:** Image editing and logo creation.
+- **After Effects:** Video editing.
+- **Adobe Premiere:** Professional video editing for advertisements.
+
+### Web Development
+
+Basic website creation using HTML, CSS, and JS, or WordPress with database setup.
+
+## 📫 How to Reach Me
+
+Feel free to contact me through the contact form on my website for collaborations or inquiries.
+
+## 😄 Pronouns
+
+He/Him
+
+## ⚡ Fun Fact
+
+I enjoy exploring new cybersecurity developments and devising creative solutions to intricate security challenges.
+
+## 🌐 References:
+
+- [My website](https://ivan-vcard.xyz)
+- [Other links](https://linktr.ee/OblivionForgotten)
