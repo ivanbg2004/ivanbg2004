@@ -1,73 +1,79 @@
-# 👋 Hi there, I’m @0bl1v10nf0rg0773n, known as Oblivion Forgotten in the cybersecurity community and Ivan Barnola Gasch in Catalonia, Spain.
-# [God rank on TryHackMe](https://tryhackme.com/r/0BL1V10NF0RG0773)
-# [Hacker rank Hack The Box](https://app.hackthebox.com/users/1815479)
+# 💀 Oblivion Forgotten (@0bl1v10nf0rg0773n)
 
-Welcome to my profile!
+👋 **Hello there!** Welcome to my GitHub profile.
 
-## 👀 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=0bl1v10nf0rg0773n&color=blueviolet)
 
-### Sports Background
-Passionate about cross-country skiing, excelling locally and nationally.
+---
 
-### Technological Interests and Skills
-Cybersecurity and ethical hacking enthusiast with expertise in HTML, CSS, JavaScript, PHP, and network setups.
+## 🧑‍💻 About Me
 
-### Multilingualism
-Fluent in Catalan, English, and Spanish.
+### Who am I?
+I'm **Oblivion Forgotten**, known in the real world as **Ivan Barnola Gasch** from Catalonia, Spain. I have achieved the **God rank on TryHackMe** and **Hacker rank on Hack The Box**. 
 
-## 🌱 Continuous Learning
-Pursuing the Certified Ethical Hacker (CEH) certification to stay updated in the tech landscape.
+### My Journey
+- 🌍 Fluent in Catalan, English, and Spanish.
+- 🌱 Currently pursuing the **Certified Ethical Hacker (CEH)** certification.
+- 🕵️ Engaged in HTB challenges for over 7 years.
+- ⚔️ Active participant in TryHackMe KOTH challenges and practice sessions.
 
-## 🎮 Hack The Box (HTB) Journey
-Engaged in HTB challenges for over 7 years, expanding cybersecurity knowledge and skills.
+### Professional Background
+- 🖥️ Network administrator in educational institutions.
+- 🔒 Specializing in network security, device management, and network mapping.
 
-## Experience at TryHackMe (THM)
-Active in KOTH challenges, Kacktivities, and practice sessions.
+---
 
-## Professional Experience
-Network administrator in educational institutions, specializing in network security, device management, and network mapping.
+## 🚀 Skills & Expertise
 
-### Notable Technical Skills:
-- HTML: 100%
-- CSS: 90%
-- JavaScript: 75%
-- PHP: 80%
-- Network Setups: 90%
+### Technical Skills
+- **HTML:** ![100%](https://progress-bar.dev/100)
+- **CSS:** ![90%](https://progress-bar.dev/90)
+- **JavaScript:** ![75%](https://progress-bar.dev/75)
+- **PHP:** ![80%](https://progress-bar.dev/80)
+- **Network Setups:** ![90%](https://progress-bar.dev/90)
 
-## 💼 Services Offered
-
-### Computer Repair and Assembly
-Assisting in computer assembly or repair with a focus on learning for future troubleshooting.
-
-### Network Mapping
-Providing comprehensive network maps and documentation for companies.
-
-### Design Services
+### Design Skills
 - **Photoshop:** Image editing and logo creation.
 - **After Effects:** Video editing.
 - **Adobe Premiere:** Professional video editing for advertisements.
 
-### Web Development
-Basic website creation using HTML, CSS, and JS, or WordPress with database setup.
+### Services Offered
+- **Computer Repair and Assembly:** Assisting in assembly or repair with a focus on learning.
+- **Network Mapping:** Providing comprehensive network maps and documentation for companies.
+- **Web Development:** Basic website creation using HTML, CSS, JS, or WordPress with database setup.
+
+---
+
+## 🎮 Hack The Box (HTB) Journey
+
+![HTB Stats](https://www.hackthebox.com/badge/image/htb-stats)
+
+---
+
+## 🌱 Continuous Learning
+
+I am passionate about staying updated in the tech landscape and continuously expanding my knowledge. 
+
+---
 
 ## 📫 How to Reach Me
-Contact me through the [contact form on my website](https://ivan-vcard.xyz) for collaborations or inquiries.
 
-## 😄 Pronouns
-He/Him
+- **Website:** [My website](#)
+- **Other links:** [Other links](#)
+
+---
 
 ## ⚡ Fun Fact
+
 I enjoy exploring new cybersecurity developments and devising creative solutions to intricate security challenges.
 
-## 🌐 References:
-- [My website](https://ivan-vcard.xyz)
-- [Other links](https://linktr.ee/OblivionForgotten)
+---
 
+## 📈 My GitHub Stats
 
-## My stats:
+![Oblivion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0bl1v10nf0rg0773n&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0bl1v10nf0rg0773n&layout=compact&theme=radical)
 
-<details>
-  <summary>⚡My github stats:</summary>
-  
-  <img align="center" alt="Oblivion's GitHub Stats" src="https://github-readme-stats-oblivion-forgottens-projects.vercel.app/api?username=0bl1v10nf0rg0773n&theme=shadow_red" />
-</details>
+---
+
+😄 **Pronouns:** He/Him
