@@ -85,3 +85,8 @@ I enjoy exploring new cybersecurity developments and devising creative solutions
 
 - [My website](https://ivan-vcard.xyz)
 - [Other links](https://linktr.ee/OblivionForgotten)
+
+
+
+## Testing stuff:
+![Oblivion's GitHub stats](https://github-readme-stats.vercel.app/api?username=0bl1v10nf0rg0773n&theme=jolly)
