@@ -1,3 +1,4 @@
+<a href="https://ivan-vcard.xyz" target="_blank"><img src="https://ivan-vcard.xyz/wp-content/uploads/2024/04/ibg.jpg" /></a>
 <h1 align="center">💀 Oblivion Forgotten 0bl1v10nf0rg0773n</h1>
 <h3 align="center">I'm Oblivion Forgotten, known in the real world as Ivan Barnola Gasch from Catalonia, Spain. I'm an Ethical Hacker, seeking for certification, also I have achieved the God rank on TryHackMe.</h3>
 
