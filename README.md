@@ -1,8 +1,15 @@
-# 💀 Oblivion Forgotten (@0bl1v10nf0rg0773n)
+<h1 align="center">💀 Oblivion Forgotten 0bl1v10nf0rg0773n</h1>
+<h3 align="center">I'm Oblivion Forgotten, known in the real world as Ivan Barnola Gasch from Catalonia, Spain. I'm an Ethical Hacker, seeking for certification, also I have achieved the God rank on TryHackMe.</h3>
 
-👋 **Hello world!** Welcome to my GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0bl1v10nf0rg0773n&label=Profile%20views&color=0e75b6&style=flat" alt="0bl1v10nf0rg0773n" /> </p>
 
-### Github:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0bl1v10nf0rg0773n&theme=shadow_red" alt="0bl1v10nf0rg0773n" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ivanbg_2004" target="blank"><img src="https://img.shields.io/twitter/follow/ivanbg_2004?logo=twitter&style=for-the-badge" alt="ivanbg_2004" /></a> </p>
+
+# Stats and Contact Information:
+
+### GitHub:
 ![Profile Views](https://komarev.com/ghpvc/?username=0bl1v10nf0rg0773n&color=red)
 ![GitHub followers](https://img.shields.io/github/followers/0bl1v10nf0rg0773n?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/0bl1v10nf0rg0773n?style=social)
@@ -13,7 +20,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/ivanbg_2004?style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn%20ivanbg%202004-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanbg2004/)
 
-### Learning path:
+### Learning Path:
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-[0xD]%20[God]-green?logo=tryhackme&logoColor=white)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Hacker-green?logo=hackthebox&logoColor=white)
 ![CEH](https://img.shields.io/badge/CEH-Student-orange)
@@ -21,6 +28,7 @@
 ### Contact:
 ![Website](https://img.shields.io/badge/Website-ivan%20vcard-brightgreen?style=flat-square&logo=google-chrome&logoColor=white&link=https://ivan-vcard.xyz)
 ![Gmail](https://img.shields.io/badge/Gmail-contact%40ivan%20vcard.xyz-red?style=flat-square&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/github/last-commit/0bl1v10nf0rg0773n/github-readme-stats)
 
 ### Other:
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
@@ -45,13 +53,14 @@
   <p>
     <strong>🌍 Fluent in Catalan, English, and Spanish.</strong><br>
     <strong>🌱 Currently pursuing the <em>Certified Ethical Hacker (CEH)</em> certification.</strong><br>
-    <strong>🕵️ Engaged in THM, HTB challenges and selflearning study for over 7 years.</strong><br>
+    <strong>🕵️ Engaged in THM, HTB challenges and self-learning study for over 7 years.</strong><br>
     <strong>⚔️ Active participant in TryHackMe, KOTH challenges and more.</strong>
   </p>
 </details>
 
 <details>
-  <summary><strong>Professional Background</strong></summary>
+  <summary>
+    Professional Background</strong></summary>
   <p>
     <strong>🖥️ Network administrator in educational institutions.</strong><br>
     <strong>🔒 Specializing in network security, device management, and network mapping.</strong>
@@ -73,7 +82,11 @@
   </p>
 </details>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <!-- Add your icons and links here -->
+</p>
 
+---
 
 <details>
   <summary><strong>Design Skills</strong></summary>
@@ -140,6 +153,16 @@
   - **Twitter:** [Follow me on Twitter](https://twitter.com/ivanbg_2004)
 </details>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/0bl1v10nf0rg0773n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0bl1v10nf0rg0773n" height="30" width="40" /></a>
+<a href="https://twitter.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanbg_2004" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivanbg2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanbg2004" height="30" width="40" /></a>
+<a href="https://fb.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivanbg_2004" height="30" width="40" /></a>
+<a href="https://instagram.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanbg_2004" height="30" width="40" /></a>
+<a href="https://discord.gg/AdvA9aejPa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdvA9aejPa" height="30" width="40" /></a>
+</p>
+
 ---
 
 ## ⚡ Fun Fact
@@ -177,6 +200,7 @@
 </details>
 
 ---
+
 <details>
   <summary>😄 Pronouns:</summary>
   
@@ -184,3 +208,6 @@
 
   - **He/Him:** These are the pronouns I use to refer to myself.
 </details>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/0bl1v10nf0y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0bl1v10nf0y" /></a></p><br><br>
