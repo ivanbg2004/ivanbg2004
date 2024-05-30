@@ -66,4 +66,7 @@ I enjoy exploring new cybersecurity developments and devising creative solutions
 
 ## My stats:
 
+<details>
+  <summary>⚡My github stats:</summary>
 ![Oblivion's GitHub stats](https://github-readme-stats-oblivion-forgottens-projects.vercel.app/api?username=0bl1v10nf0rg0773n&theme=shadow_red)
+</details>
