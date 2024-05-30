@@ -2,8 +2,6 @@
 <h1 align="center">💀 Oblivion Forgotten 0bl1v10nf0rg0773n</h1>
 <h3 align="center">I'm Oblivion Forgotten, known in the real world as Ivan Barnola Gasch from Catalonia, Spain. I'm an Ethical Hacker, seeking for certification, also I have achieved the God rank on TryHackMe.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0bl1v10nf0rg0773n&label=Profile%20views&color=0e75b6&style=flat" alt="0bl1v10nf0rg0773n" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0bl1v10nf0rg0773n&theme=shadow_red" alt="0bl1v10nf0rg0773n" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ivanbg_2004" target="blank"><img src="https://img.shields.io/twitter/follow/ivanbg_2004?logo=twitter&style=for-the-badge" alt="ivanbg_2004" /></a> </p>
