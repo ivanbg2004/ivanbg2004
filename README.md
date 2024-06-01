@@ -160,6 +160,7 @@
 <a href="https://fb.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivanbg_2004" height="30" width="40" /></a>
 <a href="https://instagram.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanbg_2004" height="30" width="40" /></a>
 <a href="https://discord.gg/AdvA9aejPa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdvA9aejPa" height="30" width="40" /></a>
+<a href="https://discord.com/users/522961901890830336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0BL1V10N" height="30" width="40" /></a>
 </p>
 
 ---
