@@ -154,13 +154,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/0bl1v10nf0rg0773n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0bl1v10nf0rg0773n" height="30" width="40" /></a>
-<a href="https://twitter.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanbg_2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ivanbg2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanbg2004" height="30" width="40" /></a>
-<a href="https://fb.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivanbg_2004" height="30" width="40" /></a>
-<a href="https://instagram.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanbg_2004" height="30" width="40" /></a>
-<a href="https://discord.gg/AdvA9aejPa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdvA9aejPa" height="30" width="40" /></a>
-<a href="https://discord.com/users/522961901890830336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0BL1V10N" height="30" width="40" /></a>
+dev.to: <a href="https://dev.to/0bl1v10nf0rg0773n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0bl1v10nf0rg0773n" height="30" width="40" /></a> <br>
+  
+Twitter: <a href="https://twitter.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanbg_2004" height="30" width="40" /></a><br>
+
+LikedIn: <a href="https://linkedin.com/in/ivanbg2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanbg2004" height="30" width="40" /></a> <br>
+
+Facebook: <a href="https://fb.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ivanbg_2004" height="30" width="40" /></a> <br>
+
+Instagram: <a href="https://instagram.com/ivanbg_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanbg_2004" height="30" width="40" /></a> <br>
+
+Discord (Me): <a href="https://discord.com/users/522961901890830336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0BL1V10N" height="30" width="40" /></a>
+
+<h3 align="left">Join us on our development server:</h3>
+
+Bot Discord Development Server:<a href="https://discord.gg/AdvA9aejPa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AdvA9aejPa" height="30" width="40" /></a>
 </p>
 
 ---
