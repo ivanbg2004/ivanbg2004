@@ -219,3 +219,26 @@ Bot Discord Development Server:<a href="https://discord.gg/AdvA9aejPa" target="b
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/0bl1v10nf0y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0bl1v10nf0y" /></a></p><br><br>
+
+<h2>SOCIAL MEDIA (OFFICIAL AND REAL)</h2>
+<p>Since it's possible someone could try to pretend it's me, I'll list here all my real accounts links: Also I have a repo on my profile that will also list them with pictures on how they looks like. ANY TRY TO COPY ANY OF MY PROFILES, WILL LEAD TO AN ERASURE OF IT.</p>
+
+<ul>
+  <li><strong>ivanbg_2004:</strong>
+    <ul>
+      <li><strong>INSTAGRAM</strong>: <a href="https://www.instagram.com/ivanbg_2004">https://www.instagram.com/ivanbg_2004</a></li>
+      <li><strong>TWITTER/X</strong>: <a href="https://x.com/ivanbg_2004">https://x.com/ivanbg_2004</a></li>
+      <li><strong>TIK TOK</strong>: <a href="https://www.tiktok.com/@ivanbg_2004">https://www.tiktok.com/@ivanbg_2004</a></li>
+      <li><strong>THREATS</strong>: <a href="https://www.threads.net/@ivanbg_2004">https://www.threads.net/@ivanbg_2004</a></li>
+      <li><strong>TELEGRAM</strong>: <a href="https://t.me/ivanbg_2004">https://t.me/ivanbg_2004</a></li>
+      <li><strong>YOUTUBE</strong>: <a href="https://www.youtube.com/@ivanbg_2004">https://www.youtube.com/@ivanbg_2004</a></li>
+      <li><strong>REDDIT</strong>: <a href="https://www.reddit.com/user/ivanbg_2004/">https://www.reddit.com/user/ivanbg_2004/</a></li>
+    </ul>
+  </li>
+  <li><strong>ivanbg2004:</strong>
+    <ul>
+      <li><strong>FACEBOOK</strong>: <a href="https://www.facebook.com/ivanbg2004/">https://www.facebook.com/ivanbg2004/</a></li>
+      <li><strong>LINKEDIN</strong>: <a href="https://www.linkedin.com/in/ivanbg2004">https://www.linkedin.com/in/ivanbg2004</a></li>
+    </ul>
+  </li>
+</ul>
