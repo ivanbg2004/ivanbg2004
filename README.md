@@ -234,6 +234,7 @@ Bot Discord Development Server:<a href="https://discord.gg/AdvA9aejPa" target="b
       <li><strong>TWITCH</strong>: <a href="https://www.twitch.tv/ivanbg_2004">https://www.twitch.tv/ivanbg_2004</a></li>
       <li><strong>FIVERR</strong>: <a href="https://www.fiverr.com/ivanbg_2004">https://www.fiverr.com/ivanbg_2004</a></li>
       <li><strong>DAILYMOTION</strong>: <a href="https://www.dailymotion.com/ivanbg_2004">https://www.dailymotion.com/ivanbg_2004</a></li>
+      <li><strong>X/TWITTER</strong>: <a href="https://x.com/ivanbg_2004">https://x.com/ivanbg_2004</a></li>
     </ul>
   </li>
   <li><strong>ivanbg2004:</strong>
