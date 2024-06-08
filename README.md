@@ -226,19 +226,24 @@ Bot Discord Development Server:<a href="https://discord.gg/AdvA9aejPa" target="b
 <ul>
   <li><strong>ivanbg_2004:</strong>
     <ul>
-      <li><strong>INSTAGRAM</strong>: <a href="https://www.instagram.com/ivanbg_2004">https://www.instagram.com/ivanbg_2004</a></li>
-      <li><strong>TWITTER/X</strong>: <a href="https://x.com/ivanbg_2004">https://x.com/ivanbg_2004</a></li>
+      <li><strong>INSTAGRAM</strong>: <a href="https://www.instagram.com/ivanbg_2004/">https://www.instagram.com/ivanbg_2004/</a></li>
       <li><strong>TIK TOK</strong>: <a href="https://www.tiktok.com/@ivanbg_2004">https://www.tiktok.com/@ivanbg_2004</a></li>
-      <li><strong>THREATS</strong>: <a href="https://www.threads.net/@ivanbg_2004">https://www.threads.net/@ivanbg_2004</a></li>
-      <li><strong>TELEGRAM</strong>: <a href="https://t.me/ivanbg_2004">https://t.me/ivanbg_2004</a></li>
-      <li><strong>YOUTUBE</strong>: <a href="https://www.youtube.com/@ivanbg_2004">https://www.youtube.com/@ivanbg_2004</a></li>
+      <li><strong>SNAPCHAT</strong>: <a href="https://www.snapchat.com/add/ivanbg_2004">https://www.snapchat.com/add/ivanbg_2004</a></li>
       <li><strong>REDDIT</strong>: <a href="https://www.reddit.com/user/ivanbg_2004/">https://www.reddit.com/user/ivanbg_2004/</a></li>
+      <li><strong>YOUTUBE</strong>: <a href="https://www.youtube.com/@ivanbg_2004">https://www.youtube.com/@ivanbg_2004</a></li>
+      <li><strong>TWITCH</strong>: <a href="https://www.twitch.tv/ivanbg_2004">https://www.twitch.tv/ivanbg_2004</a></li>
+      <li><strong>FIVERR</strong>: <a href="https://www.fiverr.com/ivanbg_2004">https://www.fiverr.com/ivanbg_2004</a></li>
+      <li><strong>DAILYMOTION</strong>: <a href="https://www.dailymotion.com/ivanbg_2004">https://www.dailymotion.com/ivanbg_2004</a></li>
     </ul>
   </li>
   <li><strong>ivanbg2004:</strong>
     <ul>
-      <li><strong>FACEBOOK</strong>: <a href="https://www.facebook.com/ivanbg2004/">https://www.facebook.com/ivanbg2004/</a></li>
+      <li><strong>FACEBOOK</strong>: <a href="https://www.facebook.com/ivanbg2004">https://www.facebook.com/ivanbg2004</a></li>
+      <li><strong>VIMEO</strong>: <a href="https://vimeo.com/ivanbg2004">https://vimeo.com/ivanbg2004</a></li>
+      <li><strong>RUMBLE</strong>: <a href="https://rumble.com/user/ivanbg2004">https://rumble.com/user/ivanbg2004</a></li>
       <li><strong>LINKEDIN</strong>: <a href="https://www.linkedin.com/in/ivanbg2004">https://www.linkedin.com/in/ivanbg2004</a></li>
+      <li><strong>SLACK</strong>: <a href="https://ivanbg2004.slack.com">https://ivanbg2004.slack.com</a></li>
+      <li><strong>GITHUB</strong>: <a href="https://github.com/ivanbg2004">https://github.com/ivanbg2004</a></li>
     </ul>
   </li>
 </ul>
