@@ -218,7 +218,7 @@ Bot Discord Development Server:<a href="https://discord.gg/AdvA9aejPa" target="b
 </details>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/0bl1v10nf0y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0bl1v10nf0y" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/ivanbg_2004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0bl1v10nf0y" /></a></p><br><br>
 
 <h2>SOCIAL MEDIA (OFFICIAL AND REAL)</h2>
 <p>Since it's possible someone could try to pretend it's me, I'll list here all my real accounts links: Also I have a repo on my profile that will also list them with pictures on how they looks like. ANY TRY TO COPY ANY OF MY PROFILES, WILL LEAD TO AN ERASURE OF IT.</p>
