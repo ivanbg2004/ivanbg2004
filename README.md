@@ -9,11 +9,11 @@
 # Stats and Contact Information:
 
 ### GitHub:
-![Profile Views](https://komarev.com/ghpvc/?username=0bl1v10nf0rg0773n&color=red)
-![GitHub followers](https://img.shields.io/github/followers/0bl1v10nf0rg0773n?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/0bl1v10nf0rg0773n?style=social)
-![GitHub forks](https://img.shields.io/github/forks/0bl1v10nf0rg0773n/github-readme-stats?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/0bl1v10nf0rg0773n/github-readme-stats?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=ivanbg2004&color=red)
+![GitHub followers](https://img.shields.io/github/followers/ivanbg2004?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ivanbg2004?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ivanbg2004/github-readme-stats?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/ivanbg2004/github-readme-stats?style=social)
 
 ### Social:
 ![Twitter Follow](https://img.shields.io/twitter/follow/ivanbg_2004?style=social)
@@ -31,12 +31,12 @@
 
 ### Other:
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-![License](https://img.shields.io/github/license/0bl1v10nf0rg0773n/github-readme-stats)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/0bl1v10nf0rg0773n/github-readme-stats)
-![GitHub last commit](https://img.shields.io/github/last-commit/0bl1v10nf0rg0773n/github-readme-stats)
-![GitHub issues](https://img.shields.io/github/issues/0bl1v10nf0rg0773n/github-readme-stats)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/0bl1v10nf0rg0773n/github-readme-stats)
-![GitHub contributors](https://img.shields.io/github/contributors/0bl1v10nf0rg0773n/github-readme-stats)
+![License](https://img.shields.io/github/license/ivanbg2004/github-readme-stats)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivanbg2004/github-readme-stats)
+![GitHub last commit](https://img.shields.io/github/last-commit/ivanbg2004/github-readme-stats)
+![GitHub issues](https://img.shields.io/github/issues/ivanbg2004/github-readme-stats)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ivanbg2004/github-readme-stats)
+![GitHub contributors](https://img.shields.io/github/contributors/ivanbg2004/github-readme-stats)
 
 ---
 
@@ -113,7 +113,7 @@
   <summary>View HTB & THM Stats</summary>
   
   [ ![HTB Stats](https://www.hackthebox.eu/badge/image/1815479)](https://www.hackthebox.eu/home/users/profile/42767)
-  ![THM Stats](https://tryhackme-badges.s3.amazonaws.com/0BL1V10NF0RG0773.png)
+  ![THM Stats](https://tryhackme-badges.s3.amazonaws.com/0BL1V10NF0RG0773N.png)
 </details>
 
 ---
@@ -188,21 +188,21 @@ Bot Discord Development Server:<a href="https://discord.gg/AdvA9aejPa" target="b
   <summary>View 0bl1v10nf0rg0773n's GitHub Stats</summary>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=0bl1v10nf0rg0773n&show_icons=true&theme=shadow_red" alt="0bl1v10nf0rg0773n's GitHub Stats" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ivanbg2004&show_icons=true&theme=shadow_red" alt="0bl1v10nf0rg0773n's GitHub Stats" style="max-width: 100%;">
   </p>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0bl1v10nf0rg0773n&layout=compact&theme=shadow_red" alt="0bl1v10nf0rg0773n's Top Langs" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanbg2004&layout=compact&theme=shadow_red" alt="0bl1v10nf0rg0773n's Top Langs" style="max-width: 100%;">
   </p>
   
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=0bl1v10nf0rg0773n&theme=shadow_red" alt="0bl1v10nf0rg0773n's GitHub Trophies" style="max-width: 100%;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ivanbg2004&theme=shadow_red" alt="0bl1v10nf0rg0773n's GitHub Trophies" style="max-width: 100%;">
   </p>
   
   <!-- Additional GitHub Stats -->
   
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0bl1v10nf0rg0773n&theme=shadow_red" alt="0bl1v10nf0rg0773n's GitHub Contributions" style="max-width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanbg2004&theme=shadow_red" alt="0bl1v10nf0rg0773n's GitHub Contributions" style="max-width: 100%;">
   </p>
 
 </details>
