@@ -73,11 +73,11 @@
 <details>
   <summary><strong>Technical Skills</strong></summary>
   <p>
-    <strong>HTML:</strong> ██████████ 100%<br>
-    <strong>CSS:</strong> ██████████ 90%<br>
-    <strong>JavaScript:</strong> ████████ 75%<br>
-    <strong>PHP:</strong> █████████ 80%<br>
-    <strong>Network Setups:</strong> █████████ 90%
+    <strong>HTML:</strong>
+    <strong>CSS:</strong>
+    <strong>JavaScript:</strong>
+    <strong>PHP:</strong>
+    <strong>Network Setups:</strong>
   </p>
 </details>
 
