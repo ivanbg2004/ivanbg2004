@@ -19,6 +19,8 @@
 
 <h3 align="center">Ivan Barnola Gasch</h3>
 <h4 align="center">Ethical Hacker & Cybersecurity Specialist | Founder & CEO of OD&H</h4>
+<h1 align="center">DISCLAIMER: FEW REPOSITORIES ARE RECENTLY REVAMPED OR REBRANDED, BUT ARE FROM OLD FORGOTTEN 4TB DISK AND I'M UPDATING THEM</h1>
+<p align="center">I tend to put most of them private, but I start showcasing few of them, it's not plagiarism if you revamp to a new version and make it public.</p>
 
 ---
 
