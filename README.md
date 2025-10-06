@@ -1,46 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/banner.gif" alt="Ivan Barnola Gasch — Banner" style="width:100%; border-radius:20px; box-shadow:0 0 60px rgba(127,0,255,0.6);"/>
-</p>
-
-<h1 align="center">
-  👋 Welcome to the Digital Realm of <span style="color:#7F00FF;">Ivan Barnola Gasch</span>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=7F00FF&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+of+OblivionDH;Cybersecurity+Visionary+%26+Ethical+Hacker;Full-Stack+Dev+%26+AI+Architect;Digital%20Overlord%20Since%202015" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/ivanbg2004.png" width="140" style="border-radius:50%; box-shadow:0 25px 70px rgba(127,0,255,0.4);" alt="Ivan's avatar"/>
-</p>
-
-<p align="center">
-  <strong>Founder · CEO · Cybersecurity Architect · AI Engineer · Full-Stack Innovator · Blockchain & Dark Tech Explorer</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ivanbg2004"><img src="https://img.shields.io/badge/GitHub-ivanbg2004-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://discord.gg/UTVPTTks5D"><img src="https://img.shields.io/badge/Discord-Join%20ODH-5865F2?style=for-the-badge&logo=discord" alt="Discord"/></a>
-  <a href="https://tryhackme.com/p/ivanbg2004"><img src="https://img.shields.io/badge/TryHackMe-Top%201%20(ES)-EF3B2D?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/></a>
-  <a href="https://youtube.com/@ivanbg2004"><img src="https://img.shields.io/badge/Building%3A%20AI+Sec+Framework-7f00ff?style=for-the-badge" alt="Now building"/></a>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/banner.gif" alt="Ivan Barnola Gasch — Banner" style="width:100%; border-radius:20px; box-shadow:0 0 60px rgba(127,0,255,0.6);"/> </p> <h1 align="center"> 👋 Welcome to the Digital Realm of <span style="color:#7F00FF;">Ivan Barnola Gasch</span> </h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=7F00FF&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+of+OblivionDH;Cybersecurity+Visionary+%26+Ethical+Hacker;Full-Stack+Dev+%26+AI+Architect;Digital%20Overlord%20Since%202015" alt="Typing SVG"/> </p> <p align="center"> <img src="https://github.com/ivanbg2004.png" width="140" style="border-radius:50%; box-shadow:0 25px 70px rgba(127,0,255,0.4);" alt="Ivan's avatar"/> </p> <p align="center"> <strong>Founder · CEO · Cybersecurity Architect · AI Engineer · Full-Stack Innovator · Blockchain & Dark Tech Explorer</strong> </p> <p align="center"> <a href="https://github.com/ivanbg2004"><img src="https://img.shields.io/badge/GitHub-ivanbg2004-181717?style=for-the-badge&logo=github" alt="GitHub"/></a> <a href="https://discord.gg/JtNDAkY5pH"><img src="https://img.shields.io/badge/Discord-Join%20ODH-5865F2?style=for-the-badge&logo=discord" alt="Discord"/></a> <a href="https://tryhackme.com/p/ivanbg2004"><img src="https://img.shields.io/badge/TryHackMe-Top%201%20(ES)-EF3B2D?style=for-the-badge&logo=tryhackme" alt="TryHackMe"/></a> <a href="https://youtube.com/@ivanbg2004"><img src="https://img.shields.io/badge/Building%3A%20AI+Sec+Framework-7f00ff?style=for-the-badge" alt="Now building"/></a> <a href="https://link.me/ivanbg_2004"><img src="https://img.shields.io/badge/Linkme-ivanbg_2004-000000?style=for-the-badge&logo=linkme" alt="Linkme"/></a> </p>
 
 ---
 
-## 💻 CEO / Visionary Dashboard
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CEO-Level-Ultra-7F00FF?style=for-the-badge&logo=crown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Founder-OblivionDH-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Global-Influence-7F00FF?style=for-the-badge"/>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects-28+?style=for-the-badge&color=7F00FF" alt="Projects"/>
-  <img src="https://img.shields.io/badge/Commits-50k+?style=for-the-badge&color=7F00FF" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Followers-8k+?style=for-the-badge&color=7F00FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Impact-High?style=for-the-badge&color=7F00FF" alt="Impact"/>
-</div>
+<p align="center"> <img src="https://img.shields.io/badge/CEO-Level-Ultra-Elite-7F00FF?style=for-the-badge&logo=crown&logoColor=white"/> <img src="https://img.shields.io/badge/Founder-OblivionDH-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Global-Influence-🌐-7F00FF?style=for-the-badge"/> </p> <div align="center"> <img src="https://img.shields.io/badge/Projects-28+%20Active-7F00FF?style=for-the-badge&logo=project-diagram&logoColor=white" alt="Projects"/> <img src="https://img.shields.io/badge/Commits-50k+%20and%20Counting-7F00FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> <img src="https://img.shields.io/badge/Followers-8k+%20Worldwide-7F00FF?style=for-the-badge&logo=users&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/badge/Impact-High-Level-7F00FF?style=for-the-badge&logo=chart-line&logoColor=white" alt="Impact"/> <img src="https://img.shields.io/badge/Innovation-Disruptive-7F00FF?style=for-the-badge&logo=light-bulb&logoColor=white" alt="Innovation"/> <img src="https://img.shields.io/badge/AI-Driven-NextGen-7F00FF?style=for-the-badge&logo=robot&logoColor=white" alt="AI"/> <img src="https://img.shields.io/badge/Tech-Stack-Powerhouse-7F00FF?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Tech Stack"/> </div>
 
 ---
 
