@@ -4,7 +4,7 @@
        style="width:100%; border-radius:20px; box-shadow:0 0 60px rgba(127,0,255,0.6);"/>
 </p>
 
-<h1 align="center">👋 Welcome to the Digital Dominion of <span style="color:#7F00FF;">Ivan Barnola Gasch</span></h1>
+<h1 align="center"><span style="color:#7F00FF;">Ivan Barnola Gasch</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=7F00FF&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+of+OblivionDH;Cybersecurity+Visionary+%26+Ethical+Hacker;AI+Architect+%26+Full-Stack+Innovator;Digital+Overlord+Since+2015" alt="Typing Intro"/>
