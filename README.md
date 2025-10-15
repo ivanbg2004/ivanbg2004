@@ -43,10 +43,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Projects-28%2B%20Active-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/> <img src="https://img.shields.io/badge/Commits-5k%2B%20and%20Counting-7F00FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> <img src="https://img.shields.io/badge/Followers-8k%2B%20Worldwide-7F00FF?style=for-the-badge&logo=people&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/badge/Impact-High--Level-7F00FF?style=for-the-badge&logo=chartbar&logoColor=white" alt="Impact"/> <img src="https://img.shields.io/badge/Innovation-Disruptive-7F00FF?style=for-the-badge&logo=lightning&logoColor=white" alt="Innovation"/> <img src="https://img.shields.io/badge/AI-Driven--NextGen-7F00FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/> <img src="https://img.shields.io/badge/Tech--Stack-Powerhouse-7F00FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/> </div>
 
-## 🧠 Tech Arsenal — Full Stack × Cyber × AI × Dark Tech
+## 🧠 Tech Arsenal
 
 <div align="center">
-  <!-- Pentesting -->
   <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004A99?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -56,7 +55,6 @@
 </div>
 
 <div align="center">
-  <!-- Development -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -67,7 +65,6 @@
 </div>
 
 <div align="center">
-  <!-- AI / Blockchain -->
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -76,7 +73,7 @@
   <img src="https://img.shields.io/badge/SmartContracts-7F00FF?style=for-the-badge"/>
 </div>
 
-## 🔮 Featured Projects — 3D Interactive Portfolio
+## 🔮 Featured Projects
 
 <div align="center" style="display:flex; gap:40px; flex-wrap:wrap; justify-content:center; align-items:center; font-family:Segoe UI, sans-serif;">
 
@@ -100,7 +97,7 @@
 
 </div>
 
-## 🕶️ Cyber CEO — Dark Tech Division
+## 🕶️ Cyber CEO
 
 <p align="center">
   <img src="https://img.shields.io/badge/DarkWeb-Investigator-181717?style=for-the-badge"/>
@@ -109,13 +106,13 @@
   <img src="https://img.shields.io/badge/AI_Pentesting-Engaged-00FFFF?style=for-the-badge"/>
 </p>
 
-## 💻 Terminal Simulation — CEO Command Console
+## 💻 Terminal Simulation
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=400&color=7F00FF&center=true&vCenter=true&width=600&lines=%24+Booting+Oblivion+Systems...;%24+Initializing+Neural+Core...;%24+Activating+Defense+Protocols...;%24+AI+Link+Online+%E2%9C%94;%24+Welcome%2C+Oblivion." alt="CEO Terminal Animation">
 </p>
 
-## 📊 GitHub Insights — Next-Gen CEO Analytics
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanbg2004&theme=github-dark-dimmed&area=true&hide_border=true&radius=12&bg_color=0D1117&color=7F00FF&line=7F00FF" alt="Activity Graph"/>
