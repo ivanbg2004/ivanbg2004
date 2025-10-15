@@ -34,7 +34,14 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/CEO--Level-Ultra--Elite-7F00FF?style=for-the-badge&logo=leaderboard&logoColor=white" alt="CEO Level"/> <img src="https://img.shields.io/badge/Founder-OblivionDH-181717?style=for-the-badge&logo=github&logoColor=white" alt="Founder OblivionDH"/> <img src="https://img.shields.io/badge/Global--Influence-Worldwide-7F00FF?style=for-the-badge&logo=earth&logoColor=white" alt="Global Influence"/> </p> <div align="center"> <img src="https://img.shields.io/badge/Projects-28%2B%20Active-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/> <img src="https://img.shields.io/badge/Commits-5k%2B%20and%20Counting-7F00FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> <img src="https://img.shields.io/badge/Followers-8k%2B%20Worldwide-7F00FF?style=for-the-badge&logo=people&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/badge/Impact-High--Level-7F00FF?style=for-the-badge&logo=chartbar&logoColor=white" alt="Impact"/> <img src="https://img.shields.io/badge/Innovation-Disruptive-7F00FF?style=for-the-badge&logo=lightning&logoColor=white" alt="Innovation"/> <img src="https://img.shields.io/badge/AI-Driven--NextGen-7F00FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/> <img src="https://img.shields.io/badge/Tech--Stack-Powerhouse-7F00FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/> </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/CEO--Level-Ultra--Elite-7F00FF?style=for-the-badge&logo=leaderboard&logoColor=white" alt="CEO Level"/>
+  <a href="https://github.com/OblivionDH"><img src="https://img.shields.io/badge/Founder-OblivionDH-181717?style=for-the-badge&logo=github&logoColor=white" alt="Founder OblivionDH"/></a>
+  <img src="https://img.shields.io/badge/Global--Influence-Worldwide-7F00FF?style=for-the-badge&logo=earth&logoColor=white" alt="Global Influence"/>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-28%2B%20Active-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/> <img src="https://img.shields.io/badge/Commits-5k%2B%20and%20Counting-7F00FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> <img src="https://img.shields.io/badge/Followers-8k%2B%20Worldwide-7F00FF?style=for-the-badge&logo=people&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/badge/Impact-High--Level-7F00FF?style=for-the-badge&logo=chartbar&logoColor=white" alt="Impact"/> <img src="https://img.shields.io/badge/Innovation-Disruptive-7F00FF?style=for-the-badge&logo=lightning&logoColor=white" alt="Innovation"/> <img src="https://img.shields.io/badge/AI-Driven--NextGen-7F00FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/> <img src="https://img.shields.io/badge/Tech--Stack-Powerhouse-7F00FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/> </div>
 
 ## 🧠 Tech Arsenal — Full Stack × Cyber × AI × Dark Tech
 
@@ -73,7 +80,7 @@
 
 <div align="center" style="display:flex; gap:40px; flex-wrap:wrap; justify-content:center; align-items:center; font-family:Segoe UI, sans-serif;">
 
-  <a href="https://github.com/ivanbg2004/OblivionDH" style="text-decoration:none; color:white; text-align:center;">
+  <a href="https://github.com/OblivionDH" style="text-decoration:none; color:white; text-align:center;">
     <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/oblivion-logo.png" width="120" style="border-radius:25px; box-shadow:0 0 35px #7F00FFaa; transform:perspective(600px) rotateY(8deg);" />
     <p><strong>OblivionDH</strong></p>
     <p>Secure • Scalable • Cyber-Resilient</p>
