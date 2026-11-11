@@ -1,131 +1,79 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/banner.gif" 
-       alt="Ivan Barnola Gasch — Banner" 
-       style="width:100%; border-radius:20px; box-shadow:0 0 60px rgba(127,0,255,0.6);"/>
-</p>
-
-<h1 align="center"><span style="color:#7F00FF;">Ivan Barnola Gasch</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=500&color=7F00FF&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+of+OblivionDH;Cybersecurity+Visionary+%26+Ethical+Hacker;AI+Architect+%26+Full-Stack+Innovator;Digital+Overlord+Since+2015" alt="Typing Intro"/>
+  <img src="assets/banner-1280x400.png" alt="Ivan Barnola Gasch — Founder & CEO of Oblivion" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ivanbg2004.png" width="140" style="border-radius:50%; box-shadow:0 25px 70px rgba(127,0,255,0.4);" alt="Ivan's avatar"/>
+  <a href="https://obliviondh.com"><img src="https://img.shields.io/badge/obliviondh.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=FFCC00" alt="obliviondh.com"/></a>
+  <a href="https://www.linkedin.com/in/ivanbg2004/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFCC00" alt="LinkedIn"/></a>
+  <a href="https://discord.gg/sb5TdP4gqx"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=FFCC00" alt="Discord"/></a>
+  <a href="https://linktr.ee/ivanbg2004"><img src="https://img.shields.io/badge/All_links-FFCC00?style=for-the-badge&logo=linktree&logoColor=0A0A0A" alt="Linktree"/></a>
 </p>
 
-<p align="center"><strong>Founder · CEO · Cybersecurity Architect · AI Engineer · Full-Stack Innovator · Blockchain Explorer</strong></p>
+## About
+
+I started building in 2015 and soon moved into offensive security. In 2026 I founded **Oblivion**, a technology company focused on cybersecurity, cloud infrastructure and artificial intelligence.
+
+- 🔴 **Penetration testing and Red Team** operations
+- ☁️ **Cloud and Kubernetes security**, Linux hardening
+- 🤖 **Secure AI and LLM** integration and automation
+- 🌐 **Websites and web apps**: design, development, hosting and security
+- 🧩 **Vulnerability and threat analysis** (CVEs, supply chain attacks)
+
+**Verified:** Hack The Box Endgames **Hades** and **RPG** · Security Blue Team (Penetration Testing, OSINT) · TCM Security Linux 100 · Kubernetes security training.
+
+## Audience
 
 <p align="center">
-  <a href="https://github.com/ivanbg2004">
-    <img src="https://img.shields.io/badge/GitHub-ivanbg2004-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://discord.gg/JtNDAkY5pH">
-    <img src="https://img.shields.io/badge/Discord-Join%20ODH-5865F2?style=for-the-badge&logo=discord"/>
-  </a>
-  <a href="https://tryhackme.com/p/ivanbg2004">
-    <img src="https://img.shields.io/badge/TryHackMe-Top%201%20ES-EF3B2D?style=for-the-badge&logo=tryhackme"/>
-  </a>
-  <a href="https://youtube.com/@ivanbg2004">
-    <img src="https://img.shields.io/badge/AI_Sec_Framework-LIVE-7F00FF?style=for-the-badge"/>
-  </a>
-  <a href="https://link.me/ivanbg_2004">
-    <img src="https://img.shields.io/badge/Linkme-ivanbg_2004-000000?style=for-the-badge&logo=linkme"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CEO--Level-Ultra--Elite-7F00FF?style=for-the-badge&logo=leaderboard&logoColor=white" alt="CEO Level"/>
-  <a href="https://github.com/OblivionDH"><img src="https://img.shields.io/badge/Founder-OblivionDH-181717?style=for-the-badge&logo=github&logoColor=white" alt="Founder OblivionDH"/></a>
-  <img src="https://img.shields.io/badge/Global--Influence-Worldwide-7F00FF?style=for-the-badge&logo=earth&logoColor=white" alt="Global Influence"/>
-</p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Projects-28%2B%20Active-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/> <img src="https://img.shields.io/badge/Commits-5k%2B%20and%20Counting-7F00FF?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/> <img src="https://img.shields.io/badge/Followers-8k%2B%20Worldwide-7F00FF?style=for-the-badge&logo=people&logoColor=white" alt="Followers"/> <img src="https://img.shields.io/badge/Impact-High--Level-7F00FF?style=for-the-badge&logo=chartbar&logoColor=white" alt="Impact"/> <img src="https://img.shields.io/badge/Innovation-Disruptive-7F00FF?style=for-the-badge&logo=lightning&logoColor=white" alt="Innovation"/> <img src="https://img.shields.io/badge/AI-Driven--NextGen-7F00FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/> <img src="https://img.shields.io/badge/Tech--Stack-Powerhouse-7F00FF?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"/> </div>
-
-## 🧠 Tech Arsenal
-
-<div align="center">
-  <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004A99?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ligolo-ng-8B00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BloodyAD-FF0000?style=for-the-badge"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SmartContracts-7F00FF?style=for-the-badge"/>
-</div>
-
-## 🔮 Featured Projects
-
-<div align="center" style="display:flex; gap:40px; flex-wrap:wrap; justify-content:center; align-items:center; font-family:Segoe UI, sans-serif;">
-
-  <a href="https://github.com/OblivionDH" style="text-decoration:none; color:white; text-align:center;">
-    <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/oblivion-logo.png" width="120" style="border-radius:25px; box-shadow:0 0 35px #7F00FFaa; transform:perspective(600px) rotateY(8deg);" />
-    <p><strong>OblivionDH</strong></p>
-    <p>Secure • Scalable • Cyber-Resilient</p>
-  </a>
-
-  <a href="https://github.com/ivanbg2004/ZeroHumanError" style="text-decoration:none; color:white; text-align:center;">
-    <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/zhe-logo.png" width="120" style="border-radius:25px; box-shadow:0 0 35px #000000cc; transform:perspective(600px) rotateY(8deg);" />
-    <p><strong>Zero Human Error</strong></p>
-    <p>Cyberculture • Streetwear • Identity</p>
-  </a>
-
-  <a href="https://github.com/ivanbg2004/OneAI" style="text-decoration:none; color:white; text-align:center;">
-    <img src="https://raw.githubusercontent.com/ivanbg2004/ivanbg2004/main/assets/oneai-logo.png" width="120" style="border-radius:25px; box-shadow:0 0 35px #7F00FFaa; transform:perspective(600px) rotateY(8deg);" />
-    <p><strong>OneAI</strong></p>
-    <p>LLM • Applied Intelligence • R&D</p>
-  </a>
-
-</div>
-
-## 🕶️ Cyber CEO
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DarkWeb-Investigator-181717?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OblivionCoin-Active-7F00FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ZeroDay_Research-LIVE-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Pentesting-Engaged-00FFFF?style=for-the-badge"/>
-</p>
-
-## 💻 Terminal Simulation
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=400&color=7F00FF&center=true&vCenter=true&width=600&lines=%24+Booting+Oblivion+Systems...;%24+Initializing+Neural+Core...;%24+Activating+Defense+Protocols...;%24+AI+Link+Online+%E2%9C%94;%24+Welcome%2C+Oblivion." alt="CEO Terminal Animation">
-</p>
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanbg2004&theme=github-dark-dimmed&area=true&hide_border=true&radius=12&bg_color=0D1117&color=7F00FF&line=7F00FF" alt="Activity Graph"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ivanbg2004&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="assets/audience-1280x220.png" alt="25K+ followers across networks: LinkedIn 15.2K, Instagram 6.9K, YouTube 2.2K, TikTok 717" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7f00ff&height=180&section=footer" alt="Footer Wave"/>
+  <a href="https://www.linkedin.com/in/ivanbg2004/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/ivanbg_2004/">Instagram</a> ·
+  <a href="https://www.youtube.com/channel/UCBJhl-WSH4g-df9TGbA4U6Q">YouTube</a> ·
+  <a href="https://www.tiktok.com/@ivanbg_2004">TikTok</a> ·
+  <a href="https://www.linkedin.com/newsletters/oblivion-dominio-cibern%C3%A9tico-7405361186059489280/">Newsletter</a> (2.3K subscribers)
+  <br/><sub>Followers across all my networks, not GitHub alone. Source: Favikon, November 2026.</sub>
 </p>
 
+## The Oblivion ecosystem
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="https://obliviondh.com/"><img src="assets/card-oblivion.png" width="100%" alt="Oblivion"/></a></td>
+    <td align="center" width="33%"><a href="https://one.obliviondh.com/"><img src="assets/card-one.png" width="100%" alt="Oblivion One"/></a></td>
+    <td align="center" width="33%"><a href="https://academy.obliviondh.com/"><img src="assets/card-academy.png" width="100%" alt="Oblivion Academy"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://mbw.obliviondh.com/"><img src="assets/card-mbw.png" width="100%" alt="My Business Web"/></a></td>
+    <td align="center"><a href="https://sea.obliviondh.com/"><img src="assets/card-sea.png" width="100%" alt="SeaWolf"/></a></td>
+    <td align="center"><a href="https://discord.gg/sb5TdP4gqx"><img src="assets/card-discord.png" width="100%" alt="Join the Oblivion Discord"/></a></td>
+  </tr>
+</table>
+
+**Allies:** [One AI](https://oneai.ml/) (co-founder, AI and LLM solutions) · [AerionCloud](https://aerioncloud.com/) (co-founder, EU cloud infrastructure)
+
+## Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-0A0A0A?style=flat-square&logo=burpsuite&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Nmap-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Metasploit-0A0A0A?style=flat-square&logo=metasploit&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/BloodHound-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ligolo--ng-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/bloodyAD-0A0A0A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-0A0A0A?style=flat-square&logo=linux&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat-square&logo=kubernetes&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Angular-0A0A0A?style=flat-square&logo=angular&logoColor=FFCC00"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=FFCC00"/>
+</p>
+
+---
+
 <p align="center">
-  <a href="https://github.com/ivanbg2004?tab=repositories"><img src="https://img.shields.io/badge/🚀%20Explore%20Repos-7f00ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://discord.gg/JtNDAkY5pH"><img src="https://img.shields.io/badge/Join%20the%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <b>Work with Oblivion</b> → <a href="https://obliviondh.com">obliviondh.com</a> · <b>Join the community</b> → <a href="https://discord.gg/sb5TdP4gqx">discord.gg/sb5TdP4gqx</a>
 </p>
